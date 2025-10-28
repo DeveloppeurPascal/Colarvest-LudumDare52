@@ -37,10 +37,12 @@ uses
   FMX.Forms,
   fMain in 'fMain.pas' {frmMain},
   cButton in 'cButton.pas' {cadButton: TFrame},
-  FMX.DzHTMLText in '..\Libraries\DzHTMLText\FMX.DzHTMLText.pas',
   uGameData in 'uGameData.pas',
   cInventoryItem in 'cInventoryItem.pas' {cadInventoryItem: TFrame},
-  udmLDJam52_Icones_AS303523361 in 'udmLDJam52_Icones_AS303523361.pas' {dmLDJam52_Icones_AS303523361: TDataModule};
+  udmLDJam52_Icones_AS303523361 in 'udmLDJam52_Icones_AS303523361.pas' {dmLDJam52_Icones_AS303523361: TDataModule},
+  FMX.DHCommon in '..\Libraries\DzHTMLText\Source\FMX.DHCommon.pas',
+  FMX.DHTokenEngine in '..\Libraries\DzHTMLText\Source\FMX.DHTokenEngine.pas',
+  FMX.DzHTMLText in '..\Libraries\DzHTMLText\Source\FMX.DzHTMLText.pas';
 
 {$R *.res}
 

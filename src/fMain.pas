@@ -39,7 +39,7 @@ uses
   System.Variants,
   FMX.Types, FMX.Controls, FMX.Forms, FMX.Graphics, FMX.Dialogs, FMX.Layouts,
   FMX.Objects, FMX.Ani, FMX.StdCtrls, FMX.Controls.Presentation, cButton,
-  FMX.DzHTMLText, cInventoryItem, uGameData;
+  cInventoryItem, uGameData, FMX.DzHTMLText;
 
 Const
   CDefaultMarginsTop = 5;
