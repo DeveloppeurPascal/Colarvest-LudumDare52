@@ -14,6 +14,600 @@
           </OBJECT>
           <UL>
               <LI> <OBJECT type="text/sitemap">
+                  <param name="Name" value="FMX.DHCommon">
+                  <param name="Local" value="FMX.DHCommon.html">
+                  </OBJECT>
+                  <UL>
+                      <LI> <OBJECT type="text/sitemap">
+                          <param name="Name" value="Classes">
+                          </OBJECT>
+                          <UL>
+                              <LI> <OBJECT type="text/sitemap">
+                                  <param name="Name" value="TDHCharUtils">
+                                  <param name="Local" value="FMX.DHCommon.TDHCharUtils.html">
+                                  </OBJECT>
+                                  <UL>
+                                      <LI> <OBJECT type="text/sitemap">
+                                          <param name="Name" value="Methods">
+                                          </OBJECT>
+                                          <UL>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="FindNextWordBreakChar">
+                                                  <param name="Local" value="FMX.DHCommon.TDHCharUtils.FindNextWordBreakChar.html">
+                                                  </OBJECT>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="IsPunctuationChar">
+                                                  <param name="Local" value="FMX.DHCommon.TDHCharUtils.IsPunctuationChar.html">
+                                                  </OBJECT>
+                                          </UL>
+                                  </UL>
+                              <LI> <OBJECT type="text/sitemap">
+                                  <param name="Name" value="TDHMultipleTokenParams">
+                                  <param name="Local" value="FMX.DHCommon.TDHMultipleTokenParams.html">
+                                  </OBJECT>
+                                  <UL>
+                                      <LI> <OBJECT type="text/sitemap">
+                                          <param name="Name" value="Constructors">
+                                          </OBJECT>
+                                          <UL>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="Create">
+                                                  <param name="Local" value="FMX.DHCommon.TDHMultipleTokenParams.Create.html">
+                                                  </OBJECT>
+                                          </UL>
+                                      <LI> <OBJECT type="text/sitemap">
+                                          <param name="Name" value="Methods">
+                                          </OBJECT>
+                                          <UL>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="GetFirstParam">
+                                                  <param name="Local" value="FMX.DHCommon.TDHMultipleTokenParams.GetFirstParam.html">
+                                                  </OBJECT>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="GetParam">
+                                                  <param name="Local" value="FMX.DHCommon.TDHMultipleTokenParams.GetParam.html">
+                                                  </OBJECT>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="GetParamAsColor">
+                                                  <param name="Local" value="FMX.DHCommon.TDHMultipleTokenParams.GetParamAsColor.html">
+                                                  </OBJECT>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="GetParamAsPixels">
+                                                  <param name="Local" value="FMX.DHCommon.TDHMultipleTokenParams.GetParamAsPixels.html">
+                                                  </OBJECT>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="ParamExists">
+                                                  <param name="Local" value="FMX.DHCommon.TDHMultipleTokenParams.ParamExists.html">
+                                                  </OBJECT>
+                                          </UL>
+                                  </UL>
+                          </UL>
+                      <LI> <OBJECT type="text/sitemap">
+                          <param name="Name" value="Types">
+                          </OBJECT>
+                          <UL>
+                              <LI> <OBJECT type="text/sitemap">
+                                  <param name="Name" value="TAnyBitmap">
+                                  <param name="Local" value="FMX.DHCommon.TAnyBitmap.html">
+                                  </OBJECT>
+                              <LI> <OBJECT type="text/sitemap">
+                                  <param name="Name" value="TAnyColor">
+                                  <param name="Local" value="FMX.DHCommon.TAnyColor.html">
+                                  </OBJECT>
+                              <LI> <OBJECT type="text/sitemap">
+                                  <param name="Name" value="TAnyPicture">
+                                  <param name="Local" value="FMX.DHCommon.TAnyPicture.html">
+                                  </OBJECT>
+                              <LI> <OBJECT type="text/sitemap">
+                                  <param name="Name" value="TAnyPoint">
+                                  <param name="Local" value="FMX.DHCommon.TAnyPoint.html">
+                                  </OBJECT>
+                              <LI> <OBJECT type="text/sitemap">
+                                  <param name="Name" value="TAnyRect">
+                                  <param name="Local" value="FMX.DHCommon.TAnyRect.html">
+                                  </OBJECT>
+                              <LI> <OBJECT type="text/sitemap">
+                                  <param name="Name" value="TAnySize">
+                                  <param name="Local" value="FMX.DHCommon.TAnySize.html">
+                                  </OBJECT>
+                              <LI> <OBJECT type="text/sitemap">
+                                  <param name="Name" value="TPixels">
+                                  <param name="Local" value="FMX.DHCommon.TPixels.html">
+                                  </OBJECT>
+                          </UL>
+                      <LI> <OBJECT type="text/sitemap">
+                          <param name="Name" value="Constants">
+                          </OBJECT>
+                          <UL>
+                              <LI> <OBJECT type="text/sitemap">
+                                  <param name="Name" value="STR_SPACE">
+                                  <param name="Local" value="FMX.DHCommon.STR_SPACE.html">
+                                  </OBJECT>
+                              <LI> <OBJECT type="text/sitemap">
+                                  <param name="Name" value="clNone">
+                                  <param name="Local" value="FMX.DHCommon.clNone.html">
+                                  </OBJECT>
+                          </UL>
+                      <LI> <OBJECT type="text/sitemap">
+                          <param name="Name" value="Routines">
+                          </OBJECT>
+                          <UL>
+                              <LI> <OBJECT type="text/sitemap">
+                                  <param name="Name" value="DefineFillColor">
+                                  <param name="Local" value="FMX.DHCommon.DefineFillColor.html">
+                                  </OBJECT>
+                              <LI> <OBJECT type="text/sitemap">
+                                  <param name="Name" value="DefineFontColor">
+                                  <param name="Local" value="FMX.DHCommon.DefineFontColor.html">
+                                  </OBJECT>
+                              <LI> <OBJECT type="text/sitemap">
+                                  <param name="Name" value="DefineFontName">
+                                  <param name="Local" value="FMX.DHCommon.DefineFontName.html">
+                                  </OBJECT>
+                              <LI> <OBJECT type="text/sitemap">
+                                  <param name="Name" value="DefineFontPt">
+                                  <param name="Local" value="FMX.DHCommon.DefineFontPt.html">
+                                  </OBJECT>
+                              <LI> <OBJECT type="text/sitemap">
+                                  <param name="Name" value="GenericFillRect">
+                                  <param name="Local" value="FMX.DHCommon.GenericFillRect.html">
+                                  </OBJECT>
+                              <LI> <OBJECT type="text/sitemap">
+                                  <param name="Name" value="GetGenericFillColor">
+                                  <param name="Local" value="FMX.DHCommon.GetGenericFillColor.html">
+                                  </OBJECT>
+                              <LI> <OBJECT type="text/sitemap">
+                                  <param name="Name" value="GetGenericFontColor">
+                                  <param name="Local" value="FMX.DHCommon.GetGenericFontColor.html">
+                                  </OBJECT>
+                              <LI> <OBJECT type="text/sitemap">
+                                  <param name="Name" value="GetGenericFontName">
+                                  <param name="Local" value="FMX.DHCommon.GetGenericFontName.html">
+                                  </OBJECT>
+                              <LI> <OBJECT type="text/sitemap">
+                                  <param name="Name" value="GetGenericFontPt">
+                                  <param name="Local" value="FMX.DHCommon.GetGenericFontPt.html">
+                                  </OBJECT>
+                              <LI> <OBJECT type="text/sitemap">
+                                  <param name="Name" value="ParamToColor">
+                                  <param name="Local" value="FMX.DHCommon.ParamToColor.html">
+                                  </OBJECT>
+                              <LI> <OBJECT type="text/sitemap">
+                                  <param name="Name" value="ParamToHorzAlign">
+                                  <param name="Local" value="FMX.DHCommon.ParamToHorzAlign.html">
+                                  </OBJECT>
+                              <LI> <OBJECT type="text/sitemap">
+                                  <param name="Name" value="ParamToVertAlign">
+                                  <param name="Local" value="FMX.DHCommon.ParamToVertAlign.html">
+                                  </OBJECT>
+                              <LI> <OBJECT type="text/sitemap">
+                                  <param name="Name" value="RoundIfVCL">
+                                  <param name="Local" value="FMX.DHCommon.RoundIfVCL.html">
+                                  </OBJECT>
+                              <LI> <OBJECT type="text/sitemap">
+                                  <param name="Name" value="SplitStr">
+                                  <param name="Local" value="FMX.DHCommon.SplitStr.html">
+                                  </OBJECT>
+                              <LI> <OBJECT type="text/sitemap">
+                                  <param name="Name" value="StrToPixels">
+                                  <param name="Local" value="FMX.DHCommon.StrToPixels.html">
+                                  </OBJECT>
+                          </UL>
+                  </UL>
+              <LI> <OBJECT type="text/sitemap">
+                  <param name="Name" value="FMX.DHTokenEngine">
+                  <param name="Local" value="FMX.DHTokenEngine.html">
+                  </OBJECT>
+                  <UL>
+                      <LI> <OBJECT type="text/sitemap">
+                          <param name="Name" value="Classes">
+                          </OBJECT>
+                          <UL>
+                              <LI> <OBJECT type="text/sitemap">
+                                  <param name="Name" value="TDHBuilder">
+                                  <param name="Local" value="FMX.DHTokenEngine.TDHBuilder.html">
+                                  </OBJECT>
+                                  <UL>
+                                      <LI> <OBJECT type="text/sitemap">
+                                          <param name="Name" value="Constructors">
+                                          </OBJECT>
+                                          <UL>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="Create">
+                                                  <param name="Local" value="FMX.DHTokenEngine.TDHBuilder.Create.html">
+                                                  </OBJECT>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="Destroy">
+                                                  <param name="Local" value="FMX.DHTokenEngine.TDHBuilder.Destroy.html">
+                                                  </OBJECT>
+                                          </UL>
+                                      <LI> <OBJECT type="text/sitemap">
+                                          <param name="Name" value="Methods">
+                                          </OBJECT>
+                                          <UL>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="Execute">
+                                                  <param name="Local" value="FMX.DHTokenEngine.TDHBuilder.Execute.html">
+                                                  </OBJECT>
+                                          </UL>
+                                  </UL>
+                              <LI> <OBJECT type="text/sitemap">
+                                  <param name="Name" value="TDHDivArea">
+                                  <param name="Local" value="FMX.DHTokenEngine.TDHDivArea.html">
+                                  </OBJECT>
+                                  <UL>
+                                      <LI> <OBJECT type="text/sitemap">
+                                          <param name="Name" value="Constructors">
+                                          </OBJECT>
+                                          <UL>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="Create">
+                                                  <param name="Local" value="FMX.DHTokenEngine.TDHDivArea.Create.html">
+                                                  </OBJECT>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="Destroy">
+                                                  <param name="Local" value="FMX.DHTokenEngine.TDHDivArea.Destroy.html">
+                                                  </OBJECT>
+                                          </UL>
+                                  </UL>
+                              <LI> <OBJECT type="text/sitemap">
+                                  <param name="Name" value="TDHDivAreaLine">
+                                  <param name="Local" value="FMX.DHTokenEngine.TDHDivAreaLine.html">
+                                  </OBJECT>
+                                  <UL>
+                                      <LI> <OBJECT type="text/sitemap">
+                                          <param name="Name" value="Constructors">
+                                          </OBJECT>
+                                          <UL>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="Create">
+                                                  <param name="Local" value="FMX.DHTokenEngine.TDHDivAreaLine.Create.html">
+                                                  </OBJECT>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="Destroy">
+                                                  <param name="Local" value="FMX.DHTokenEngine.TDHDivAreaLine.Destroy.html">
+                                                  </OBJECT>
+                                          </UL>
+                                  </UL>
+                              <LI> <OBJECT type="text/sitemap">
+                                  <param name="Name" value="TDHPreVisualItem">
+                                  <param name="Local" value="FMX.DHTokenEngine.TDHPreVisualItem.html">
+                                  </OBJECT>
+                                  <UL>
+                                      <LI> <OBJECT type="text/sitemap">
+                                          <param name="Name" value="Constructors">
+                                          </OBJECT>
+                                          <UL>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="Destroy">
+                                                  <param name="Local" value="FMX.DHTokenEngine.TDHPreVisualItem.Destroy.html">
+                                                  </OBJECT>
+                                          </UL>
+                                  </UL>
+                              <LI> <OBJECT type="text/sitemap">
+                                  <param name="Name" value="TDHPreVisualItemList">
+                                  <param name="Local" value="FMX.DHTokenEngine.TDHPreVisualItemList.html">
+                                  </OBJECT>
+                              <LI> <OBJECT type="text/sitemap">
+                                  <param name="Name" value="TDHPropsStore">
+                                  <param name="Local" value="FMX.DHTokenEngine.TDHPropsStore.html">
+                                  </OBJECT>
+                              <LI> <OBJECT type="text/sitemap">
+                                  <param name="Name" value="TDHToken">
+                                  <param name="Local" value="FMX.DHTokenEngine.TDHToken.html">
+                                  </OBJECT>
+                                  <UL>
+                                      <LI> <OBJECT type="text/sitemap">
+                                          <param name="Name" value="Constructors">
+                                          </OBJECT>
+                                          <UL>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="Create">
+                                                  <param name="Local" value="FMX.DHTokenEngine.TDHToken.Create.html">
+                                                  </OBJECT>
+                                          </UL>
+                                  </UL>
+                              <LI> <OBJECT type="text/sitemap">
+                                  <param name="Name" value="TDHTokenBlock">
+                                  <param name="Local" value="FMX.DHTokenEngine.TDHTokenBlock.html">
+                                  </OBJECT>
+                                  <UL>
+                                      <LI> <OBJECT type="text/sitemap">
+                                          <param name="Name" value="Constructors">
+                                          </OBJECT>
+                                          <UL>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="Create">
+                                                  <param name="Local" value="FMX.DHTokenEngine.TDHTokenBlock.Create.html">
+                                                  </OBJECT>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="Destroy">
+                                                  <param name="Local" value="FMX.DHTokenEngine.TDHTokenBlock.Destroy.html">
+                                                  </OBJECT>
+                                          </UL>
+                                  </UL>
+                              <LI> <OBJECT type="text/sitemap">
+                                  <param name="Name" value="TDHTokenSingle">
+                                  <param name="Local" value="FMX.DHTokenEngine.TDHTokenSingle.html">
+                                  </OBJECT>
+                              <LI> <OBJECT type="text/sitemap">
+                                  <param name="Name" value="TDHToken_AlignCenter">
+                                  <param name="Local" value="FMX.DHTokenEngine.TDHToken_AlignCenter.html">
+                                  </OBJECT>
+                              <LI> <OBJECT type="text/sitemap">
+                                  <param name="Name" value="TDHToken_AlignLeft">
+                                  <param name="Local" value="FMX.DHTokenEngine.TDHToken_AlignLeft.html">
+                                  </OBJECT>
+                              <LI> <OBJECT type="text/sitemap">
+                                  <param name="Name" value="TDHToken_AlignRight">
+                                  <param name="Local" value="FMX.DHTokenEngine.TDHToken_AlignRight.html">
+                                  </OBJECT>
+                              <LI> <OBJECT type="text/sitemap">
+                                  <param name="Name" value="TDHToken_BackColor">
+                                  <param name="Local" value="FMX.DHTokenEngine.TDHToken_BackColor.html">
+                                  </OBJECT>
+                              <LI> <OBJECT type="text/sitemap">
+                                  <param name="Name" value="TDHToken_Bold">
+                                  <param name="Local" value="FMX.DHTokenEngine.TDHToken_Bold.html">
+                                  </OBJECT>
+                              <LI> <OBJECT type="text/sitemap">
+                                  <param name="Name" value="TDHToken_Break">
+                                  <param name="Local" value="FMX.DHTokenEngine.TDHToken_Break.html">
+                                  </OBJECT>
+                              <LI> <OBJECT type="text/sitemap">
+                                  <param name="Name" value="TDHToken_Color">
+                                  <param name="Local" value="FMX.DHTokenEngine.TDHToken_Color.html">
+                                  </OBJECT>
+                              <LI> <OBJECT type="text/sitemap">
+                                  <param name="Name" value="TDHToken_CustomStyle">
+                                  <param name="Local" value="FMX.DHTokenEngine.TDHToken_CustomStyle.html">
+                                  </OBJECT>
+                              <LI> <OBJECT type="text/sitemap">
+                                  <param name="Name" value="TDHToken_Div">
+                                  <param name="Local" value="FMX.DHTokenEngine.TDHToken_Div.html">
+                                  </OBJECT>
+                              <LI> <OBJECT type="text/sitemap">
+                                  <param name="Name" value="TDHToken_Float">
+                                  <param name="Local" value="FMX.DHTokenEngine.TDHToken_Float.html">
+                                  </OBJECT>
+                              <LI> <OBJECT type="text/sitemap">
+                                  <param name="Name" value="TDHToken_FontColor">
+                                  <param name="Local" value="FMX.DHTokenEngine.TDHToken_FontColor.html">
+                                  </OBJECT>
+                              <LI> <OBJECT type="text/sitemap">
+                                  <param name="Name" value="TDHToken_FontName">
+                                  <param name="Local" value="FMX.DHTokenEngine.TDHToken_FontName.html">
+                                  </OBJECT>
+                              <LI> <OBJECT type="text/sitemap">
+                                  <param name="Name" value="TDHToken_FontSize">
+                                  <param name="Local" value="FMX.DHTokenEngine.TDHToken_FontSize.html">
+                                  </OBJECT>
+                              <LI> <OBJECT type="text/sitemap">
+                                  <param name="Name" value="TDHToken_FontStyleItem">
+                                  <param name="Local" value="FMX.DHTokenEngine.TDHToken_FontStyleItem.html">
+                                  </OBJECT>
+                              <LI> <OBJECT type="text/sitemap">
+                                  <param name="Name" value="TDHToken_Header">
+                                  <param name="Local" value="FMX.DHTokenEngine.TDHToken_Header.html">
+                                  </OBJECT>
+                              <LI> <OBJECT type="text/sitemap">
+                                  <param name="Name" value="TDHToken_Image">
+                                  <param name="Local" value="FMX.DHTokenEngine.TDHToken_Image.html">
+                                  </OBJECT>
+                              <LI> <OBJECT type="text/sitemap">
+                                  <param name="Name" value="TDHToken_ImageResource">
+                                  <param name="Local" value="FMX.DHTokenEngine.TDHToken_ImageResource.html">
+                                  </OBJECT>
+                              <LI> <OBJECT type="text/sitemap">
+                                  <param name="Name" value="TDHToken_Italic">
+                                  <param name="Local" value="FMX.DHTokenEngine.TDHToken_Italic.html">
+                                  </OBJECT>
+                              <LI> <OBJECT type="text/sitemap">
+                                  <param name="Name" value="TDHToken_Line">
+                                  <param name="Local" value="FMX.DHTokenEngine.TDHToken_Line.html">
+                                  </OBJECT>
+                              <LI> <OBJECT type="text/sitemap">
+                                  <param name="Name" value="TDHToken_LineSpace">
+                                  <param name="Local" value="FMX.DHTokenEngine.TDHToken_LineSpace.html">
+                                  </OBJECT>
+                              <LI> <OBJECT type="text/sitemap">
+                                  <param name="Name" value="TDHToken_Link">
+                                  <param name="Local" value="FMX.DHTokenEngine.TDHToken_Link.html">
+                                  </OBJECT>
+                              <LI> <OBJECT type="text/sitemap">
+                                  <param name="Name" value="TDHToken_List">
+                                  <param name="Local" value="FMX.DHTokenEngine.TDHToken_List.html">
+                                  </OBJECT>
+                              <LI> <OBJECT type="text/sitemap">
+                                  <param name="Name" value="TDHToken_ListItem">
+                                  <param name="Local" value="FMX.DHTokenEngine.TDHToken_ListItem.html">
+                                  </OBJECT>
+                              <LI> <OBJECT type="text/sitemap">
+                                  <param name="Name" value="TDHToken_Main">
+                                  <param name="Local" value="FMX.DHTokenEngine.TDHToken_Main.html">
+                                  </OBJECT>
+                              <LI> <OBJECT type="text/sitemap">
+                                  <param name="Name" value="TDHToken_Offset">
+                                  <param name="Local" value="FMX.DHTokenEngine.TDHToken_Offset.html">
+                                  </OBJECT>
+                              <LI> <OBJECT type="text/sitemap">
+                                  <param name="Name" value="TDHToken_OrderedList">
+                                  <param name="Local" value="FMX.DHTokenEngine.TDHToken_OrderedList.html">
+                                  </OBJECT>
+                              <LI> <OBJECT type="text/sitemap">
+                                  <param name="Name" value="TDHToken_ParagraphIndent">
+                                  <param name="Local" value="FMX.DHTokenEngine.TDHToken_ParagraphIndent.html">
+                                  </OBJECT>
+                              <LI> <OBJECT type="text/sitemap">
+                                  <param name="Name" value="TDHToken_Spoiler">
+                                  <param name="Local" value="FMX.DHTokenEngine.TDHToken_Spoiler.html">
+                                  </OBJECT>
+                              <LI> <OBJECT type="text/sitemap">
+                                  <param name="Name" value="TDHToken_SpoilerDetail">
+                                  <param name="Local" value="FMX.DHTokenEngine.TDHToken_SpoilerDetail.html">
+                                  </OBJECT>
+                              <LI> <OBJECT type="text/sitemap">
+                                  <param name="Name" value="TDHToken_SpoilerTitle">
+                                  <param name="Local" value="FMX.DHTokenEngine.TDHToken_SpoilerTitle.html">
+                                  </OBJECT>
+                              <LI> <OBJECT type="text/sitemap">
+                                  <param name="Name" value="TDHToken_Strikeout">
+                                  <param name="Local" value="FMX.DHTokenEngine.TDHToken_Strikeout.html">
+                                  </OBJECT>
+                              <LI> <OBJECT type="text/sitemap">
+                                  <param name="Name" value="TDHToken_Subscript">
+                                  <param name="Local" value="FMX.DHTokenEngine.TDHToken_Subscript.html">
+                                  </OBJECT>
+                              <LI> <OBJECT type="text/sitemap">
+                                  <param name="Name" value="TDHToken_SuperOrSubScript">
+                                  <param name="Local" value="FMX.DHTokenEngine.TDHToken_SuperOrSubScript.html">
+                                  </OBJECT>
+                              <LI> <OBJECT type="text/sitemap">
+                                  <param name="Name" value="TDHToken_Superscript">
+                                  <param name="Local" value="FMX.DHTokenEngine.TDHToken_Superscript.html">
+                                  </OBJECT>
+                              <LI> <OBJECT type="text/sitemap">
+                                  <param name="Name" value="TDHToken_Tab">
+                                  <param name="Local" value="FMX.DHTokenEngine.TDHToken_Tab.html">
+                                  </OBJECT>
+                              <LI> <OBJECT type="text/sitemap">
+                                  <param name="Name" value="TDHToken_TabBase">
+                                  <param name="Local" value="FMX.DHTokenEngine.TDHToken_TabBase.html">
+                                  </OBJECT>
+                              <LI> <OBJECT type="text/sitemap">
+                                  <param name="Name" value="TDHToken_TabF">
+                                  <param name="Local" value="FMX.DHTokenEngine.TDHToken_TabF.html">
+                                  </OBJECT>
+                              <LI> <OBJECT type="text/sitemap">
+                                  <param name="Name" value="TDHToken_Underline">
+                                  <param name="Local" value="FMX.DHTokenEngine.TDHToken_Underline.html">
+                                  </OBJECT>
+                              <LI> <OBJECT type="text/sitemap">
+                                  <param name="Name" value="TDHToken_UnorderedList">
+                                  <param name="Local" value="FMX.DHTokenEngine.TDHToken_UnorderedList.html">
+                                  </OBJECT>
+                              <LI> <OBJECT type="text/sitemap">
+                                  <param name="Name" value="TDHToken_VertAlign">
+                                  <param name="Local" value="FMX.DHTokenEngine.TDHToken_VertAlign.html">
+                                  </OBJECT>
+                              <LI> <OBJECT type="text/sitemap">
+                                  <param name="Name" value="TDHToken_Word">
+                                  <param name="Local" value="FMX.DHTokenEngine.TDHToken_Word.html">
+                                  </OBJECT>
+                          </UL>
+                      <LI> <OBJECT type="text/sitemap">
+                          <param name="Name" value="Records">
+                          </OBJECT>
+                          <UL>
+                              <LI> <OBJECT type="text/sitemap">
+                                  <param name="Name" value="TDHBorderRec">
+                                  <param name="Local" value="FMX.DHTokenEngine.TDHBorderRec.html">
+                                  </OBJECT>
+                              <LI> <OBJECT type="text/sitemap">
+                                  <param name="Name" value="TDHBordersRec">
+                                  <param name="Local" value="FMX.DHTokenEngine.TDHBordersRec.html">
+                                  </OBJECT>
+                              <LI> <OBJECT type="text/sitemap">
+                                  <param name="Name" value="TDHOffsetRec">
+                                  <param name="Local" value="FMX.DHTokenEngine.TDHOffsetRec.html">
+                                  </OBJECT>
+                          </UL>
+                      <LI> <OBJECT type="text/sitemap">
+                          <param name="Name" value="Enumerations">
+                          </OBJECT>
+                          <UL>
+                              <LI> <OBJECT type="text/sitemap">
+                                  <param name="Name" value="TDHDivSizeType">
+                                  <param name="Local" value="FMX.DHTokenEngine.TDHDivSizeType.html">
+                                  </OBJECT>
+                                  <UL>
+                                      <LI> <OBJECT type="text/sitemap">
+                                          <param name="Name" value="Auto">
+                                          <param name="Local" value="FMX.DHTokenEngine.TDHDivSizeType.Auto.html">
+                                          </OBJECT>
+                                      <LI> <OBJECT type="text/sitemap">
+                                          <param name="Name" value="Outer">
+                                          <param name="Local" value="FMX.DHTokenEngine.TDHDivSizeType.Outer.html">
+                                          </OBJECT>
+                                      <LI> <OBJECT type="text/sitemap">
+                                          <param name="Name" value="Inner">
+                                          <param name="Local" value="FMX.DHTokenEngine.TDHDivSizeType.Inner.html">
+                                          </OBJECT>
+                                      <LI> <OBJECT type="text/sitemap">
+                                          <param name="Name" value="Full">
+                                          <param name="Local" value="FMX.DHTokenEngine.TDHDivSizeType.Full.html">
+                                          </OBJECT>
+                                      <LI> <OBJECT type="text/sitemap">
+                                          <param name="Name" value="Percent">
+                                          <param name="Local" value="FMX.DHTokenEngine.TDHDivSizeType.Percent.html">
+                                          </OBJECT>
+                                      <LI> <OBJECT type="text/sitemap">
+                                          <param name="Name" value="Reverse">
+                                          <param name="Local" value="FMX.DHTokenEngine.TDHDivSizeType.Reverse.html">
+                                          </OBJECT>
+                                      <LI> <OBJECT type="text/sitemap">
+                                          <param name="Name" value="Line">
+                                          <param name="Local" value="FMX.DHTokenEngine.TDHDivSizeType.Line.html">
+                                          </OBJECT>
+                                  </UL>
+                          </UL>
+                      <LI> <OBJECT type="text/sitemap">
+                          <param name="Name" value="Delegates">
+                          </OBJECT>
+                          <UL>
+                              <LI> <OBJECT type="text/sitemap">
+                                  <param name="Name" value="TDHProcBoundsAndLines">
+                                  <param name="Local" value="FMX.DHTokenEngine.TDHProcBoundsAndLines.html">
+                                  </OBJECT>
+                          </UL>
+                      <LI> <OBJECT type="text/sitemap">
+                          <param name="Name" value="Types">
+                          </OBJECT>
+                          <UL>
+                              <LI> <OBJECT type="text/sitemap">
+                                  <param name="Name" value="TAnyBitmap">
+                                  <param name="Local" value="FMX.DHTokenEngine.TAnyBitmap.html">
+                                  </OBJECT>
+                              <LI> <OBJECT type="text/sitemap">
+                                  <param name="Name" value="TAnyColor">
+                                  <param name="Local" value="FMX.DHTokenEngine.TAnyColor.html">
+                                  </OBJECT>
+                              <LI> <OBJECT type="text/sitemap">
+                                  <param name="Name" value="TAnyPicture">
+                                  <param name="Local" value="FMX.DHTokenEngine.TAnyPicture.html">
+                                  </OBJECT>
+                              <LI> <OBJECT type="text/sitemap">
+                                  <param name="Name" value="TAnyPoint">
+                                  <param name="Local" value="FMX.DHTokenEngine.TAnyPoint.html">
+                                  </OBJECT>
+                              <LI> <OBJECT type="text/sitemap">
+                                  <param name="Name" value="TAnyRect">
+                                  <param name="Local" value="FMX.DHTokenEngine.TAnyRect.html">
+                                  </OBJECT>
+                              <LI> <OBJECT type="text/sitemap">
+                                  <param name="Name" value="TAnySize">
+                                  <param name="Local" value="FMX.DHTokenEngine.TAnySize.html">
+                                  </OBJECT>
+                              <LI> <OBJECT type="text/sitemap">
+                                  <param name="Name" value="TDHTokenClass">
+                                  <param name="Local" value="FMX.DHTokenEngine.TDHTokenClass.html">
+                                  </OBJECT>
+                              <LI> <OBJECT type="text/sitemap">
+                                  <param name="Name" value="TPixels">
+                                  <param name="Local" value="FMX.DHTokenEngine.TPixels.html">
+                                  </OBJECT>
+                          </UL>
+                      <LI> <OBJECT type="text/sitemap">
+                          <param name="Name" value="Constants">
+                          </OBJECT>
+                          <UL>
+                              <LI> <OBJECT type="text/sitemap">
+                                  <param name="Name" value="clNone">
+                                  <param name="Local" value="FMX.DHTokenEngine.clNone.html">
+                                  </OBJECT>
+                          </UL>
+                  </UL>
+              <LI> <OBJECT type="text/sitemap">
                   <param name="Name" value="FMX.DzHTMLText">
                   <param name="Local" value="FMX.DzHTMLText.html">
                   </OBJECT>
@@ -22,6 +616,21 @@
                           <param name="Name" value="Classes">
                           </OBJECT>
                           <UL>
+                              <LI> <OBJECT type="text/sitemap">
+                                  <param name="Name" value="EDHInternalExcept">
+                                  <param name="Local" value="FMX.DzHTMLText.EDHInternalExcept.html">
+                                  </OBJECT>
+                                  <UL>
+                                      <LI> <OBJECT type="text/sitemap">
+                                          <param name="Name" value="Constructors">
+                                          </OBJECT>
+                                          <UL>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="Create">
+                                                  <param name="Local" value="FMX.DzHTMLText.EDHInternalExcept.Create.html">
+                                                  </OBJECT>
+                                          </UL>
+                                  </UL>
                               <LI> <OBJECT type="text/sitemap">
                                   <param name="Name" value="TDHBaseLink">
                                   <param name="Local" value="FMX.DzHTMLText.TDHBaseLink.html">
@@ -99,10 +708,148 @@
                                           </UL>
                                   </UL>
                               <LI> <OBJECT type="text/sitemap">
+                                  <param name="Name" value="TDHCustomStyle">
+                                  <param name="Local" value="FMX.DzHTMLText.TDHCustomStyle.html">
+                                  </OBJECT>
+                                  <UL>
+                                      <LI> <OBJECT type="text/sitemap">
+                                          <param name="Name" value="Constructors">
+                                          </OBJECT>
+                                          <UL>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="Create">
+                                                  <param name="Local" value="FMX.DzHTMLText.TDHCustomStyle.Create.html">
+                                                  </OBJECT>
+                                          </UL>
+                                      <LI> <OBJECT type="text/sitemap">
+                                          <param name="Name" value="Properties">
+                                          </OBJECT>
+                                          <UL>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="BackColor">
+                                                  <param name="Local" value="FMX.DzHTMLText.TDHCustomStyle.BackColor.html">
+                                                  </OBJECT>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="FontColor">
+                                                  <param name="Local" value="FMX.DzHTMLText.TDHCustomStyle.FontColor.html">
+                                                  </OBJECT>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="FontName">
+                                                  <param name="Local" value="FMX.DzHTMLText.TDHCustomStyle.FontName.html">
+                                                  </OBJECT>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="FontSize">
+                                                  <param name="Local" value="FMX.DzHTMLText.TDHCustomStyle.FontSize.html">
+                                                  </OBJECT>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="HorzAlign">
+                                                  <param name="Local" value="FMX.DzHTMLText.TDHCustomStyle.HorzAlign.html">
+                                                  </OBJECT>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="Ident">
+                                                  <param name="Local" value="FMX.DzHTMLText.TDHCustomStyle.Ident.html">
+                                                  </OBJECT>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="LineSpacing">
+                                                  <param name="Local" value="FMX.DzHTMLText.TDHCustomStyle.LineSpacing.html">
+                                                  </OBJECT>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="OffsetBottom">
+                                                  <param name="Local" value="FMX.DzHTMLText.TDHCustomStyle.OffsetBottom.html">
+                                                  </OBJECT>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="OffsetTop">
+                                                  <param name="Local" value="FMX.DzHTMLText.TDHCustomStyle.OffsetTop.html">
+                                                  </OBJECT>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="ParagraphIndent">
+                                                  <param name="Local" value="FMX.DzHTMLText.TDHCustomStyle.ParagraphIndent.html">
+                                                  </OBJECT>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="ParagraphSpacing">
+                                                  <param name="Local" value="FMX.DzHTMLText.TDHCustomStyle.ParagraphSpacing.html">
+                                                  </OBJECT>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="StyleBold">
+                                                  <param name="Local" value="FMX.DzHTMLText.TDHCustomStyle.StyleBold.html">
+                                                  </OBJECT>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="StyleItalic">
+                                                  <param name="Local" value="FMX.DzHTMLText.TDHCustomStyle.StyleItalic.html">
+                                                  </OBJECT>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="StyleStrikeout">
+                                                  <param name="Local" value="FMX.DzHTMLText.TDHCustomStyle.StyleStrikeout.html">
+                                                  </OBJECT>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="StyleUnderline">
+                                                  <param name="Local" value="FMX.DzHTMLText.TDHCustomStyle.StyleUnderline.html">
+                                                  </OBJECT>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="VertAlign">
+                                                  <param name="Local" value="FMX.DzHTMLText.TDHCustomStyle.VertAlign.html">
+                                                  </OBJECT>
+                                          </UL>
+                                      <LI> <OBJECT type="text/sitemap">
+                                          <param name="Name" value="Methods">
+                                          </OBJECT>
+                                          <UL>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="GetDisplayName">
+                                                  <param name="Local" value="FMX.DzHTMLText.TDHCustomStyle.GetDisplayName.html">
+                                                  </OBJECT>
+                                          </UL>
+                                  </UL>
+                              <LI> <OBJECT type="text/sitemap">
+                                  <param name="Name" value="TDHCustomStyles">
+                                  <param name="Local" value="FMX.DzHTMLText.TDHCustomStyles.html">
+                                  </OBJECT>
+                                  <UL>
+                                      <LI> <OBJECT type="text/sitemap">
+                                          <param name="Name" value="Constructors">
+                                          </OBJECT>
+                                          <UL>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="Create">
+                                                  <param name="Local" value="FMX.DzHTMLText.TDHCustomStyles.Create.html">
+                                                  </OBJECT>
+                                          </UL>
+                                      <LI> <OBJECT type="text/sitemap">
+                                          <param name="Name" value="Methods">
+                                          </OBJECT>
+                                          <UL>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="FindByIdent">
+                                                  <param name="Local" value="FMX.DzHTMLText.TDHCustomStyles.FindByIdent.html">
+                                                  </OBJECT>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="GetOwner">
+                                                  <param name="Local" value="FMX.DzHTMLText.TDHCustomStyles.GetOwner.html">
+                                                  </OBJECT>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="Update">
+                                                  <param name="Local" value="FMX.DzHTMLText.TDHCustomStyles.Update.html">
+                                                  </OBJECT>
+                                          </UL>
+                                  </UL>
+                              <LI> <OBJECT type="text/sitemap">
                                   <param name="Name" value="TDHLinkRef">
                                   <param name="Local" value="FMX.DzHTMLText.TDHLinkRef.html">
                                   </OBJECT>
                                   <UL>
+                                      <LI> <OBJECT type="text/sitemap">
+                                          <param name="Name" value="Constructors">
+                                          </OBJECT>
+                                          <UL>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="Create">
+                                                  <param name="Local" value="FMX.DzHTMLText.TDHLinkRef.Create.html">
+                                                  </OBJECT>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="Destroy">
+                                                  <param name="Local" value="FMX.DzHTMLText.TDHLinkRef.Destroy.html">
+                                                  </OBJECT>
+                                          </UL>
                                       <LI> <OBJECT type="text/sitemap">
                                           <param name="Name" value="Properties">
                                           </OBJECT>
@@ -122,10 +869,60 @@
                                   <param name="Local" value="FMX.DzHTMLText.TDHLinkRefList.html">
                                   </OBJECT>
                               <LI> <OBJECT type="text/sitemap">
+                                  <param name="Name" value="TDHOffset">
+                                  <param name="Local" value="FMX.DzHTMLText.TDHOffset.html">
+                                  </OBJECT>
+                                  <UL>
+                                      <LI> <OBJECT type="text/sitemap">
+                                          <param name="Name" value="Constructors">
+                                          </OBJECT>
+                                          <UL>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="Create">
+                                                  <param name="Local" value="FMX.DzHTMLText.TDHOffset.Create.html">
+                                                  </OBJECT>
+                                          </UL>
+                                      <LI> <OBJECT type="text/sitemap">
+                                          <param name="Name" value="Properties">
+                                          </OBJECT>
+                                          <UL>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="Bottom">
+                                                  <param name="Local" value="FMX.DzHTMLText.TDHOffset.Bottom.html">
+                                                  </OBJECT>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="Top">
+                                                  <param name="Local" value="FMX.DzHTMLText.TDHOffset.Top.html">
+                                                  </OBJECT>
+                                          </UL>
+                                      <LI> <OBJECT type="text/sitemap">
+                                          <param name="Name" value="Methods">
+                                          </OBJECT>
+                                          <UL>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="Assign">
+                                                  <param name="Local" value="FMX.DzHTMLText.TDHOffset.Assign.html">
+                                                  </OBJECT>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="GetOwner">
+                                                  <param name="Local" value="FMX.DzHTMLText.TDHOffset.GetOwner.html">
+                                                  </OBJECT>
+                                          </UL>
+                                  </UL>
+                              <LI> <OBJECT type="text/sitemap">
                                   <param name="Name" value="TDHSpoiler">
                                   <param name="Local" value="FMX.DzHTMLText.TDHSpoiler.html">
                                   </OBJECT>
                                   <UL>
+                                      <LI> <OBJECT type="text/sitemap">
+                                          <param name="Name" value="Constructors">
+                                          </OBJECT>
+                                          <UL>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="Create">
+                                                  <param name="Local" value="FMX.DzHTMLText.TDHSpoiler.Create.html">
+                                                  </OBJECT>
+                                          </UL>
                                       <LI> <OBJECT type="text/sitemap">
                                           <param name="Name" value="Properties">
                                           </OBJECT>
@@ -201,17 +998,118 @@
                                           </UL>
                                   </UL>
                               <LI> <OBJECT type="text/sitemap">
+                                  <param name="Name" value="TDHSyntaxError">
+                                  <param name="Local" value="FMX.DzHTMLText.TDHSyntaxError.html">
+                                  </OBJECT>
+                                  <UL>
+                                      <LI> <OBJECT type="text/sitemap">
+                                          <param name="Name" value="Constructors">
+                                          </OBJECT>
+                                          <UL>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="Create">
+                                                  <param name="Local" value="FMX.DzHTMLText.TDHSyntaxError.Create.html">
+                                                  </OBJECT>
+                                          </UL>
+                                      <LI> <OBJECT type="text/sitemap">
+                                          <param name="Name" value="Properties">
+                                          </OBJECT>
+                                          <UL>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="Description">
+                                                  <param name="Local" value="FMX.DzHTMLText.TDHSyntaxError.Description.html">
+                                                  </OBJECT>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="Position">
+                                                  <param name="Local" value="FMX.DzHTMLText.TDHSyntaxError.Position.html">
+                                                  </OBJECT>
+                                          </UL>
+                                  </UL>
+                              <LI> <OBJECT type="text/sitemap">
+                                  <param name="Name" value="TDHSyntaxErrorList">
+                                  <param name="Local" value="FMX.DzHTMLText.TDHSyntaxErrorList.html">
+                                  </OBJECT>
+                              <LI> <OBJECT type="text/sitemap">
                                   <param name="Name" value="TDHVisualItem">
                                   <param name="Local" value="FMX.DzHTMLText.TDHVisualItem.html">
                                   </OBJECT>
+                                  <UL>
+                                      <LI> <OBJECT type="text/sitemap">
+                                          <param name="Name" value="Fields">
+                                          </OBJECT>
+                                          <UL>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="BColor">
+                                                  <param name="Local" value="FMX.DzHTMLText.TDHVisualItem.BColor.html">
+                                                  </OBJECT>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="Link">
+                                                  <param name="Local" value="FMX.DzHTMLText.TDHVisualItem.Link.html">
+                                                  </OBJECT>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="Rect">
+                                                  <param name="Local" value="FMX.DzHTMLText.TDHVisualItem.Rect.html">
+                                                  </OBJECT>
+                                          </UL>
+                                  </UL>
                               <LI> <OBJECT type="text/sitemap">
                                   <param name="Name" value="TDHVisualItemList">
                                   <param name="Local" value="FMX.DzHTMLText.TDHVisualItemList.html">
                                   </OBJECT>
                               <LI> <OBJECT type="text/sitemap">
+                                  <param name="Name" value="TDHVisualItem_Div">
+                                  <param name="Local" value="FMX.DzHTMLText.TDHVisualItem_Div.html">
+                                  </OBJECT>
+                                  <UL>
+                                      <LI> <OBJECT type="text/sitemap">
+                                          <param name="Name" value="Fields">
+                                          </OBJECT>
+                                          <UL>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="Bottom">
+                                                  <param name="Local" value="FMX.DzHTMLText.TDHVisualItem_Div.Bottom.html">
+                                                  </OBJECT>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="CornerRadius">
+                                                  <param name="Local" value="FMX.DzHTMLText.TDHVisualItem_Div.CornerRadius.html">
+                                                  </OBJECT>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="InnerColor">
+                                                  <param name="Local" value="FMX.DzHTMLText.TDHVisualItem_Div.InnerColor.html">
+                                                  </OBJECT>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="Left">
+                                                  <param name="Local" value="FMX.DzHTMLText.TDHVisualItem_Div.Left.html">
+                                                  </OBJECT>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="OuterColor">
+                                                  <param name="Local" value="FMX.DzHTMLText.TDHVisualItem_Div.OuterColor.html">
+                                                  </OBJECT>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="Right">
+                                                  <param name="Local" value="FMX.DzHTMLText.TDHVisualItem_Div.Right.html">
+                                                  </OBJECT>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="Top">
+                                                  <param name="Local" value="FMX.DzHTMLText.TDHVisualItem_Div.Top.html">
+                                                  </OBJECT>
+                                          </UL>
+                                  </UL>
+                              <LI> <OBJECT type="text/sitemap">
                                   <param name="Name" value="TDHVisualItem_Image">
                                   <param name="Local" value="FMX.DzHTMLText.TDHVisualItem_Image.html">
                                   </OBJECT>
+                                  <UL>
+                                      <LI> <OBJECT type="text/sitemap">
+                                          <param name="Name" value="Fields">
+                                          </OBJECT>
+                                          <UL>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="ImageIndex">
+                                                  <param name="Local" value="FMX.DzHTMLText.TDHVisualItem_Image.ImageIndex.html">
+                                                  </OBJECT>
+                                          </UL>
+                                  </UL>
                               <LI> <OBJECT type="text/sitemap">
                                   <param name="Name" value="TDHVisualItem_ImageResource">
                                   <param name="Local" value="FMX.DzHTMLText.TDHVisualItem_ImageResource.html">
@@ -228,6 +1126,43 @@
                                               <LI> <OBJECT type="text/sitemap">
                                                   <param name="Name" value="Destroy">
                                                   <param name="Local" value="FMX.DzHTMLText.TDHVisualItem_ImageResource.Destroy.html">
+                                                  </OBJECT>
+                                          </UL>
+                                      <LI> <OBJECT type="text/sitemap">
+                                          <param name="Name" value="Methods">
+                                          </OBJECT>
+                                          <UL>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="Load">
+                                                  <param name="Local" value="FMX.DzHTMLText.TDHVisualItem_ImageResource.Load.html">
+                                                  </OBJECT>
+                                          </UL>
+                                      <LI> <OBJECT type="text/sitemap">
+                                          <param name="Name" value="Fields">
+                                          </OBJECT>
+                                          <UL>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="Picture">
+                                                  <param name="Local" value="FMX.DzHTMLText.TDHVisualItem_ImageResource.Picture.html">
+                                                  </OBJECT>
+                                          </UL>
+                                  </UL>
+                              <LI> <OBJECT type="text/sitemap">
+                                  <param name="Name" value="TDHVisualItem_Line">
+                                  <param name="Local" value="FMX.DzHTMLText.TDHVisualItem_Line.html">
+                                  </OBJECT>
+                                  <UL>
+                                      <LI> <OBJECT type="text/sitemap">
+                                          <param name="Name" value="Fields">
+                                          </OBJECT>
+                                          <UL>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="Color">
+                                                  <param name="Local" value="FMX.DzHTMLText.TDHVisualItem_Line.Color.html">
+                                                  </OBJECT>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="ColorAlt">
+                                                  <param name="Local" value="FMX.DzHTMLText.TDHVisualItem_Line.ColorAlt.html">
                                                   </OBJECT>
                                           </UL>
                                   </UL>
@@ -247,6 +1182,27 @@
                                               <LI> <OBJECT type="text/sitemap">
                                                   <param name="Name" value="Destroy">
                                                   <param name="Local" value="FMX.DzHTMLText.TDHVisualItem_Word.Destroy.html">
+                                                  </OBJECT>
+                                          </UL>
+                                      <LI> <OBJECT type="text/sitemap">
+                                          <param name="Name" value="Fields">
+                                          </OBJECT>
+                                          <UL>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="Font">
+                                                  <param name="Local" value="FMX.DzHTMLText.TDHVisualItem_Word.Font.html">
+                                                  </OBJECT>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="FontColor">
+                                                  <param name="Local" value="FMX.DzHTMLText.TDHVisualItem_Word.FontColor.html">
+                                                  </OBJECT>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="Text">
+                                                  <param name="Local" value="FMX.DzHTMLText.TDHVisualItem_Word.Text.html">
+                                                  </OBJECT>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="YPos">
+                                                  <param name="Local" value="FMX.DzHTMLText.TDHVisualItem_Word.YPos.html">
                                                   </OBJECT>
                                           </UL>
                                   </UL>
@@ -289,6 +1245,10 @@
                                                   <param name="Local" value="FMX.DzHTMLText.TDzHTMLText.Anchors.html">
                                                   </OBJECT>
                                               <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="AutoBreak">
+                                                  <param name="Local" value="FMX.DzHTMLText.TDzHTMLText.AutoBreak.html">
+                                                  </OBJECT>
+                                              <LI> <OBJECT type="text/sitemap">
                                                   <param name="Name" value="AutoHeight">
                                                   <param name="Local" value="FMX.DzHTMLText.TDzHTMLText.AutoHeight.html">
                                                   </OBJECT>
@@ -321,8 +1281,16 @@
                                                   <param name="Local" value="FMX.DzHTMLText.TDzHTMLText.Color.html">
                                                   </OBJECT>
                                               <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="ControlType">
+                                                  <param name="Local" value="FMX.DzHTMLText.TDzHTMLText.ControlType.html">
+                                                  </OBJECT>
+                                              <LI> <OBJECT type="text/sitemap">
                                                   <param name="Name" value="Cursor">
                                                   <param name="Local" value="FMX.DzHTMLText.TDzHTMLText.Cursor.html">
+                                                  </OBJECT>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="CustomStyles">
+                                                  <param name="Local" value="FMX.DzHTMLText.TDzHTMLText.CustomStyles.html">
                                                   </OBJECT>
                                               <LI> <OBJECT type="text/sitemap">
                                                   <param name="Name" value="DragMode">
@@ -343,6 +1311,10 @@
                                               <LI> <OBJECT type="text/sitemap">
                                                   <param name="Name" value="FontColor">
                                                   <param name="Local" value="FMX.DzHTMLText.TDzHTMLText.FontColor.html">
+                                                  </OBJECT>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="GeneratePlainText">
+                                                  <param name="Local" value="FMX.DzHTMLText.TDzHTMLText.GeneratePlainText.html">
                                                   </OBJECT>
                                               <LI> <OBJECT type="text/sitemap">
                                                   <param name="Name" value="Height">
@@ -369,12 +1341,20 @@
                                                   <param name="Local" value="FMX.DzHTMLText.TDzHTMLText.HitTest.html">
                                                   </OBJECT>
                                               <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="Images">
+                                                  <param name="Local" value="FMX.DzHTMLText.TDzHTMLText.Images.html">
+                                                  </OBJECT>
+                                              <LI> <OBJECT type="text/sitemap">
                                                   <param name="Name" value="IsLinkHover">
                                                   <param name="Local" value="FMX.DzHTMLText.TDzHTMLText.IsLinkHover.html">
                                                   </OBJECT>
                                               <LI> <OBJECT type="text/sitemap">
                                                   <param name="Name" value="LineCount">
                                                   <param name="Local" value="FMX.DzHTMLText.TDzHTMLText.LineCount.html">
+                                                  </OBJECT>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="LineHorzAlign">
+                                                  <param name="Local" value="FMX.DzHTMLText.TDzHTMLText.LineHorzAlign.html">
                                                   </OBJECT>
                                               <LI> <OBJECT type="text/sitemap">
                                                   <param name="Name" value="LineSpacing">
@@ -407,6 +1387,10 @@
                                               <LI> <OBJECT type="text/sitemap">
                                                   <param name="Name" value="MaxWidth">
                                                   <param name="Local" value="FMX.DzHTMLText.TDzHTMLText.MaxWidth.html">
+                                                  </OBJECT>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="Offset">
+                                                  <param name="Local" value="FMX.DzHTMLText.TDzHTMLText.Offset.html">
                                                   </OBJECT>
                                               <LI> <OBJECT type="text/sitemap">
                                                   <param name="Name" value="OnClick">
@@ -489,12 +1473,36 @@
                                                   <param name="Local" value="FMX.DzHTMLText.TDzHTMLText.Padding.html">
                                                   </OBJECT>
                                               <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="ParagraphCount">
+                                                  <param name="Local" value="FMX.DzHTMLText.TDzHTMLText.ParagraphCount.html">
+                                                  </OBJECT>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="ParagraphIndent">
+                                                  <param name="Local" value="FMX.DzHTMLText.TDzHTMLText.ParagraphIndent.html">
+                                                  </OBJECT>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="ParagraphSpacing">
+                                                  <param name="Local" value="FMX.DzHTMLText.TDzHTMLText.ParagraphSpacing.html">
+                                                  </OBJECT>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="ParentShowHint">
+                                                  <param name="Local" value="FMX.DzHTMLText.TDzHTMLText.ParentShowHint.html">
+                                                  </OBJECT>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="PlainText">
+                                                  <param name="Local" value="FMX.DzHTMLText.TDzHTMLText.PlainText.html">
+                                                  </OBJECT>
+                                              <LI> <OBJECT type="text/sitemap">
                                                   <param name="Name" value="PopupMenu">
                                                   <param name="Local" value="FMX.DzHTMLText.TDzHTMLText.PopupMenu.html">
                                                   </OBJECT>
                                               <LI> <OBJECT type="text/sitemap">
                                                   <param name="Name" value="Position">
                                                   <param name="Local" value="FMX.DzHTMLText.TDzHTMLText.Position.html">
+                                                  </OBJECT>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="RightToLeftText">
+                                                  <param name="Local" value="FMX.DzHTMLText.TDzHTMLText.RightToLeftText.html">
                                                   </OBJECT>
                                               <LI> <OBJECT type="text/sitemap">
                                                   <param name="Name" value="RotationAngle">
@@ -517,6 +1525,10 @@
                                                   <param name="Local" value="FMX.DzHTMLText.TDzHTMLText.ShowHint.html">
                                                   </OBJECT>
                                               <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="Size">
+                                                  <param name="Local" value="FMX.DzHTMLText.TDzHTMLText.Size.html">
+                                                  </OBJECT>
+                                              <LI> <OBJECT type="text/sitemap">
                                                   <param name="Name" value="Spoilers">
                                                   <param name="Local" value="FMX.DzHTMLText.TDzHTMLText.Spoilers.html">
                                                   </OBJECT>
@@ -537,8 +1549,16 @@
                                                   <param name="Local" value="FMX.DzHTMLText.TDzHTMLText.StyledSettings.html">
                                                   </OBJECT>
                                               <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="SyntaxErrors">
+                                                  <param name="Local" value="FMX.DzHTMLText.TDzHTMLText.SyntaxErrors.html">
+                                                  </OBJECT>
+                                              <LI> <OBJECT type="text/sitemap">
                                                   <param name="Name" value="TabOrder">
                                                   <param name="Local" value="FMX.DzHTMLText.TDzHTMLText.TabOrder.html">
+                                                  </OBJECT>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="TabStop">
+                                                  <param name="Local" value="FMX.DzHTMLText.TDzHTMLText.TabStop.html">
                                                   </OBJECT>
                                               <LI> <OBJECT type="text/sitemap">
                                                   <param name="Name" value="Text">
@@ -574,6 +1594,14 @@
                                                   <param name="Local" value="FMX.DzHTMLText.TDzHTMLText.BeginUpdate.html">
                                                   </OBJECT>
                                               <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="CalcScale">
+                                                  <param name="Local" value="FMX.DzHTMLText.TDzHTMLText.CalcScale.html">
+                                                  </OBJECT>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="CallTokenEngine">
+                                                  <param name="Local" value="FMX.DzHTMLText.TDzHTMLText.CallTokenEngine.html">
+                                                  </OBJECT>
+                                              <LI> <OBJECT type="text/sitemap">
                                                   <param name="Name" value="Click">
                                                   <param name="Local" value="FMX.DzHTMLText.TDzHTMLText.Click.html">
                                                   </OBJECT>
@@ -590,8 +1618,12 @@
                                                   <param name="Local" value="FMX.DzHTMLText.TDzHTMLText.EscapeTextToHTML.html">
                                                   </OBJECT>
                                               <LI> <OBJECT type="text/sitemap">
-                                                  <param name="Name" value="HTMLToPlainText">
-                                                  <param name="Local" value="FMX.DzHTMLText.TDzHTMLText.HTMLToPlainText.html">
+                                                  <param name="Name" value="FMXCallTokenEngine">
+                                                  <param name="Local" value="FMX.DzHTMLText.TDzHTMLText.FMXCallTokenEngine.html">
+                                                  </OBJECT>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="GetRealColor">
+                                                  <param name="Local" value="FMX.DzHTMLText.TDzHTMLText.GetRealColor.html">
                                                   </OBJECT>
                                               <LI> <OBJECT type="text/sitemap">
                                                   <param name="Name" value="Loaded">
@@ -629,9 +1661,99 @@
                                   </UL>
                           </UL>
                       <LI> <OBJECT type="text/sitemap">
+                          <param name="Name" value="Records">
+                          </OBJECT>
+                          <UL>
+                              <LI> <OBJECT type="text/sitemap">
+                                  <param name="Name" value="TDHDivBorderLineAttrRec">
+                                  <param name="Local" value="FMX.DzHTMLText.TDHDivBorderLineAttrRec.html">
+                                  </OBJECT>
+                                  <UL>
+                                      <LI> <OBJECT type="text/sitemap">
+                                          <param name="Name" value="Fields">
+                                          </OBJECT>
+                                          <UL>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="Color">
+                                                  <param name="Local" value="FMX.DzHTMLText.TDHDivBorderLineAttrRec.Color.html">
+                                                  </OBJECT>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="Pad">
+                                                  <param name="Local" value="FMX.DzHTMLText.TDHDivBorderLineAttrRec.Pad.html">
+                                                  </OBJECT>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="Thick">
+                                                  <param name="Local" value="FMX.DzHTMLText.TDHDivBorderLineAttrRec.Thick.html">
+                                                  </OBJECT>
+                                          </UL>
+                                  </UL>
+                          </UL>
+                      <LI> <OBJECT type="text/sitemap">
                           <param name="Name" value="Enumerations">
                           </OBJECT>
                           <UL>
+                              <LI> <OBJECT type="text/sitemap">
+                                  <param name="Name" value="TDHCustomStyleBoolValue">
+                                  <param name="Local" value="FMX.DzHTMLText.TDHCustomStyleBoolValue.html">
+                                  </OBJECT>
+                                  <UL>
+                                      <LI> <OBJECT type="text/sitemap">
+                                          <param name="Name" value="Undefined">
+                                          <param name="Local" value="FMX.DzHTMLText.TDHCustomStyleBoolValue.Undefined.html">
+                                          </OBJECT>
+                                      <LI> <OBJECT type="text/sitemap">
+                                          <param name="Name" value="True">
+                                          <param name="Local" value="FMX.DzHTMLText.TDHCustomStyleBoolValue.True.html">
+                                          </OBJECT>
+                                      <LI> <OBJECT type="text/sitemap">
+                                          <param name="Name" value="False">
+                                          <param name="Local" value="FMX.DzHTMLText.TDHCustomStyleBoolValue.False.html">
+                                          </OBJECT>
+                                  </UL>
+                              <LI> <OBJECT type="text/sitemap">
+                                  <param name="Name" value="TDHCustomStyleHorzAlignValue">
+                                  <param name="Local" value="FMX.DzHTMLText.TDHCustomStyleHorzAlignValue.html">
+                                  </OBJECT>
+                                  <UL>
+                                      <LI> <OBJECT type="text/sitemap">
+                                          <param name="Name" value="Undefined">
+                                          <param name="Local" value="FMX.DzHTMLText.TDHCustomStyleHorzAlignValue.Undefined.html">
+                                          </OBJECT>
+                                      <LI> <OBJECT type="text/sitemap">
+                                          <param name="Name" value="Left">
+                                          <param name="Local" value="FMX.DzHTMLText.TDHCustomStyleHorzAlignValue.Left.html">
+                                          </OBJECT>
+                                      <LI> <OBJECT type="text/sitemap">
+                                          <param name="Name" value="Center">
+                                          <param name="Local" value="FMX.DzHTMLText.TDHCustomStyleHorzAlignValue.Center.html">
+                                          </OBJECT>
+                                      <LI> <OBJECT type="text/sitemap">
+                                          <param name="Name" value="Right">
+                                          <param name="Local" value="FMX.DzHTMLText.TDHCustomStyleHorzAlignValue.Right.html">
+                                          </OBJECT>
+                                  </UL>
+                              <LI> <OBJECT type="text/sitemap">
+                                  <param name="Name" value="TDHCustomStyleVertAlignValue">
+                                  <param name="Local" value="FMX.DzHTMLText.TDHCustomStyleVertAlignValue.html">
+                                  </OBJECT>
+                                  <UL>
+                                      <LI> <OBJECT type="text/sitemap">
+                                          <param name="Name" value="Undefined">
+                                          <param name="Local" value="FMX.DzHTMLText.TDHCustomStyleVertAlignValue.Undefined.html">
+                                          </OBJECT>
+                                      <LI> <OBJECT type="text/sitemap">
+                                          <param name="Name" value="Top">
+                                          <param name="Local" value="FMX.DzHTMLText.TDHCustomStyleVertAlignValue.Top.html">
+                                          </OBJECT>
+                                      <LI> <OBJECT type="text/sitemap">
+                                          <param name="Name" value="Center">
+                                          <param name="Local" value="FMX.DzHTMLText.TDHCustomStyleVertAlignValue.Center.html">
+                                          </OBJECT>
+                                      <LI> <OBJECT type="text/sitemap">
+                                          <param name="Name" value="Bottom">
+                                          <param name="Local" value="FMX.DzHTMLText.TDHCustomStyleVertAlignValue.Bottom.html">
+                                          </OBJECT>
+                                  </UL>
                               <LI> <OBJECT type="text/sitemap">
                                   <param name="Name" value="TDHHorzAlign">
                                   <param name="Local" value="FMX.DzHTMLText.TDHHorzAlign.html">
@@ -733,40 +1855,40 @@
                           </OBJECT>
                           <UL>
                               <LI> <OBJECT type="text/sitemap">
-                                  <param name="Name" value="TBitmap">
-                                  <param name="Local" value="FMX.DzHTMLText.TBitmap.html">
+                                  <param name="Name" value="TAnyBitmap">
+                                  <param name="Local" value="FMX.DzHTMLText.TAnyBitmap.html">
                                   </OBJECT>
                               <LI> <OBJECT type="text/sitemap">
-                                  <param name="Name" value="TColor">
-                                  <param name="Local" value="FMX.DzHTMLText.TColor.html">
+                                  <param name="Name" value="TAnyColor">
+                                  <param name="Local" value="FMX.DzHTMLText.TAnyColor.html">
+                                  </OBJECT>
+                              <LI> <OBJECT type="text/sitemap">
+                                  <param name="Name" value="TAnyPicture">
+                                  <param name="Local" value="FMX.DzHTMLText.TAnyPicture.html">
+                                  </OBJECT>
+                              <LI> <OBJECT type="text/sitemap">
+                                  <param name="Name" value="TAnyPoint">
+                                  <param name="Local" value="FMX.DzHTMLText.TAnyPoint.html">
+                                  </OBJECT>
+                              <LI> <OBJECT type="text/sitemap">
+                                  <param name="Name" value="TAnyRect">
+                                  <param name="Local" value="FMX.DzHTMLText.TAnyRect.html">
+                                  </OBJECT>
+                              <LI> <OBJECT type="text/sitemap">
+                                  <param name="Name" value="TAnySize">
+                                  <param name="Local" value="FMX.DzHTMLText.TAnySize.html">
                                   </OBJECT>
                               <LI> <OBJECT type="text/sitemap">
                                   <param name="Name" value="TDHModifiedFlags">
                                   <param name="Local" value="FMX.DzHTMLText.TDHModifiedFlags.html">
                                   </OBJECT>
                               <LI> <OBJECT type="text/sitemap">
-                                  <param name="Name" value="TFontPt">
-                                  <param name="Local" value="FMX.DzHTMLText.TFontPt.html">
-                                  </OBJECT>
-                              <LI> <OBJECT type="text/sitemap">
-                                  <param name="Name" value="TPicture">
-                                  <param name="Local" value="FMX.DzHTMLText.TPicture.html">
+                                  <param name="Name" value="TMyFontStyle">
+                                  <param name="Local" value="FMX.DzHTMLText.TMyFontStyle.html">
                                   </OBJECT>
                               <LI> <OBJECT type="text/sitemap">
                                   <param name="Name" value="TPixels">
                                   <param name="Local" value="FMX.DzHTMLText.TPixels.html">
-                                  </OBJECT>
-                              <LI> <OBJECT type="text/sitemap">
-                                  <param name="Name" value="TPoint">
-                                  <param name="Local" value="FMX.DzHTMLText.TPoint.html">
-                                  </OBJECT>
-                              <LI> <OBJECT type="text/sitemap">
-                                  <param name="Name" value="TRect">
-                                  <param name="Local" value="FMX.DzHTMLText.TRect.html">
-                                  </OBJECT>
-                              <LI> <OBJECT type="text/sitemap">
-                                  <param name="Name" value="TSize">
-                                  <param name="Local" value="FMX.DzHTMLText.TSize.html">
                                   </OBJECT>
                           </UL>
                       <LI> <OBJECT type="text/sitemap">
@@ -832,15 +1954,6 @@
                               <LI> <OBJECT type="text/sitemap">
                                   <param name="Name" value="vaTop">
                                   <param name="Local" value="FMX.DzHTMLText.vaTop.html">
-                                  </OBJECT>
-                          </UL>
-                      <LI> <OBJECT type="text/sitemap">
-                          <param name="Name" value="Routines">
-                          </OBJECT>
-                          <UL>
-                              <LI> <OBJECT type="text/sitemap">
-                                  <param name="Name" value="Register">
-                                  <param name="Local" value="FMX.DzHTMLText.Register.html">
                                   </OBJECT>
                           </UL>
                   </UL>
