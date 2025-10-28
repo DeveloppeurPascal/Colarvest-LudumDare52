@@ -11,6 +11,7 @@
   <HeaderHtml>&lt;%TopicTitle%&gt;</HeaderHtml>
   <FooterHtml>&lt;a href="https://colarvest.gamolf.fr" target="_blank"&gt;Colarvest&lt;/a&gt; (c) 2023-2025 &lt;a href="https://patrick.premartin.fr" target="_blank"&gt;Patrick PREMARTIN&lt;/a&gt; - Powered by &lt;a href="https://devjetsoftware.com/products/documentation-insight/" target="_blank"&gt;DocInsight&lt;/a&gt;</FooterHtml>
   <CustomDefines/>
+  <GlobalSearchPaths>false</GlobalSearchPaths>
   <ShowImplementationSection>false</ShowImplementationSection>
   <ShowPrivateMembers>false</ShowPrivateMembers>
   <ShowProtectedMembers>true</ShowProtectedMembers>
